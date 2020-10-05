@@ -12,3 +12,5 @@ I also found that for the learning rate, a lower number would make it less likel
 Adding a second layer also greatly increased the accuracy.
 
 I tried using multiple activation functions such as sigmoid, but found that relu was ultimately the best for my model. 
+
+See spiral.csv for output coordinate guesses and spirals.png for a graph of the output
