@@ -13,4 +13,4 @@ Adding a second layer also greatly increased the accuracy.
 
 I tried using multiple activation functions such as sigmoid, but found that relu was ultimately the best for my model. 
 
-See spiral.csv for output coordinate guesses and spirals.png for a graph of the output
+See in output folder spiral.csv for output coordinate guesses and spirals.png for a graph of the output
