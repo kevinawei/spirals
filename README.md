@@ -1,6 +1,12 @@
 # spirals
 
-CS 101 MP 3
+
+Machine Learning project by Kaiwen Wei for CS 101 
+
+Created a model to predict class of coordinate points from 2 classes in a spiral pattern.
+
+
+Write-Up:
 
 For the different parameters, I found that having the number of neurons for the first layer be about double the number of neurons for the second layer made the accuracy higher.
 Making the number of neurons too great also increased the likelyhood that the model would overfit, but also made it so that it would train faster and reach a higher accuracy. 
